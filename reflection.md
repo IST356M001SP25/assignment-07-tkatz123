@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+After completing this assignment I am much more comfortable with web scraping. The first file of this assingmnet menuitem re familiarized me with the dataclass object which I have not used in a while so that was a good refresher. Next the menuitemextractor file helped me reinforce my data manipulation skills using techniques I have used in previous assignments such as splitting and replacing, and helped me learn how to add values to the dataclass object. Finall the tully_scrapper file helped develope my webscraping skills by making me think through the query selectors on my own. I did have trouble with it and had to refer to the solution, but after viewing the solution I was able to go through the HTML code and figure out the logic behind it. 
